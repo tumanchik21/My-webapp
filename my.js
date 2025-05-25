@@ -15,7 +15,7 @@ function App() {
       <ProductList addToCart={addToCart} />
       <Cart cart={cart} />
     </div>
-  );
+  ); 
 }
 
 export default App;

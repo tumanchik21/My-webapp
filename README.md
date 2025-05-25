@@ -1,4 +1,4 @@
-//  ProductCard.jsx
+//   ProductCard.jsx
 npm install gh-pages --save-dev
 import React from 'react';
 

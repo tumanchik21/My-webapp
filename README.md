@@ -1,4 +1,4 @@
-// ProductCard.jsx
+//  ProductCard.jsx
 import React from 'react';
 
 const ProductCard = ({ product, onAddToCart }) => {

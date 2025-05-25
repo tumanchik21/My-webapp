@@ -1,4 +1,5 @@
 //  ProductCard.jsx
+npm install gh-pages --save-dev
 import React from 'react';
 
 const ProductCard = ({ product, onAddToCart }) => {
